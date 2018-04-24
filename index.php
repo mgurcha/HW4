@@ -19,8 +19,9 @@
 					<br>
 					<div id="btnStart" class="button" onclick="startGame()">Start Game!</div>
 				</div>
-		</div>
-		<div id="endScreen">
+			</div>
+			
+			<div id="endScreen">
 				<div id="endScreenContent">
 					<h1 id="txtEndTitle"></h1>
 					<h2 id="txtEndMessage"></h2>
@@ -72,6 +73,7 @@
 		<div id="home">
 			<button type="button" class="btn btn-info" id="main" onclick="mainScreen()">Go Back to Main Screen</button>
 		</div>
+		
 	</body>
 </html>
 
